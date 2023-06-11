@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.ruval
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, gradle, hibernate-reactive-jpa, http-client, jackson-databind, junit, kotlin, kotlin-application, kotlin-build, kotlin-extension-functions, logback, micronaut-build, micronaut-validation, netty-server, postgres, reactor, reactor-http-client, readme, shade, test-resources, yaml]
